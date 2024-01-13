@@ -1,1 +1,5 @@
-Maecenas viverra varius nunc, vitae dapibus diam. Nullam in metus risus. Curabitur pellentesque enim vel dolor luctus tempus. Pellentesque accumsan lorem vel sagittis egestas. Vivamus eu urna nec ipsum vulputate commodo et et mi. Nullam in elit eu neque tristique aliquam. Nullam vel orci ornare, sagittis neque quis, molestie urna. Integer commodo lectus a convallis luctus. Nullam blandit ac dui in feugiat. Quisque viverra gravida nisl. Mauris vitae dui vel ipsum posuere ornare. Proin vehicula sem sit amet aliquam eleifend. Proin molestie, dui eget auctor tincidunt, sapien diam euismod mi, vel pharetra arcu leo eget diam. Etiam libero lacus, molestie eget magna vulputate, luctus pellentesque dolor. Donec accumsan luctus eros aliquet vestibulum. 
+<?xml version='1.0' encoding='utf-8'?>
+<SIAP>
+    <campo1>valor1</campo1>
+    <campo2>valor2</campo2>
+</SIAP>
